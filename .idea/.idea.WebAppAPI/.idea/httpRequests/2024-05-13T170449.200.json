@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2024-05-14",
+    "temperatureC": -3,
+    "summary": "Cool",
+    "temperatureF": 27
+  },
+  {
+    "date": "2024-05-15",
+    "temperatureC": 15,
+    "summary": "Cool",
+    "temperatureF": 58
+  },
+  {
+    "date": "2024-05-16",
+    "temperatureC": -13,
+    "summary": "Sweltering",
+    "temperatureF": 9
+  },
+  {
+    "date": "2024-05-17",
+    "temperatureC": 53,
+    "summary": "Warm",
+    "temperatureF": 127
+  },
+  {
+    "date": "2024-05-18",
+    "temperatureC": 49,
+    "summary": "Scorching",
+    "temperatureF": 120
+  }
+]

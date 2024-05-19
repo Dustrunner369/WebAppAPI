@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2024-05-14",
+    "temperatureC": 5,
+    "summary": "Freezing",
+    "temperatureF": 40
+  },
+  {
+    "date": "2024-05-15",
+    "temperatureC": -20,
+    "summary": "Scorching",
+    "temperatureF": -3
+  },
+  {
+    "date": "2024-05-16",
+    "temperatureC": 35,
+    "summary": "Bracing",
+    "temperatureF": 94
+  },
+  {
+    "date": "2024-05-17",
+    "temperatureC": 40,
+    "summary": "Bracing",
+    "temperatureF": 103
+  },
+  {
+    "date": "2024-05-18",
+    "temperatureC": -16,
+    "summary": "Chilly",
+    "temperatureF": 4
+  }
+]
